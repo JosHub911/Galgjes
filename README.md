@@ -2,7 +2,7 @@
 
 ## Te raden woord
  
-| |A|N| |O|
+|M|A|N| |O|
 
 |E|-|-|-|-|
 
@@ -22,4 +22,4 @@ ik raad O luc (goed)
 
 ik raad N mo (goed)
 
-ik raad M luc 
+ik raad M luc (goed)
