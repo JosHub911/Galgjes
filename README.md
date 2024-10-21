@@ -23,3 +23,5 @@ ik raad O luc (goed)
 ik raad N mo (goed)
 
 ik raad M luc (goed)
+
+Ik raad r Duncan
