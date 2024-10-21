@@ -1,7 +1,7 @@
 # Galgje
 
 ## Te raden woord
-
+ ik raad E
 | | | | | |
 
 |-|-|-|-|-|
