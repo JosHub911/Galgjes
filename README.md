@@ -15,3 +15,5 @@
 ik raad E luc (fout)
 
 ik raad P mo 
+
+Ik raad A Duncan
