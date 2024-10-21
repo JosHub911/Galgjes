@@ -2,7 +2,7 @@
 
 ## Te raden woord
  
-| |A| | | |
+| |A| | |O|
 
 |E|-|-|-|-|
 
@@ -14,8 +14,8 @@
 ## Beurten
 ik raad E luc (fout)
 
-ik raad P mo 
+ik raad P mo (fout)
 
-Ik raad A Duncan
+Ik raad A Duncan (goed)
 
-ik raad O luc 
+ik raad O luc (goed)
