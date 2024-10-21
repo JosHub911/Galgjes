@@ -1,7 +1,7 @@
 # Galgje
 
 ## Te raden woord
- ik raad E
+ 
 | | | | | |
 
 |-|-|-|-|-|
@@ -12,3 +12,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
+ik raad E luc deze is wel goed
