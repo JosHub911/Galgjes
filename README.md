@@ -4,12 +4,12 @@
  
 | | | | | |
 
-|-|-|-|-|-|
+|E|-|-|-|-|
 
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
-ik raad E luc deze is wel goed
+ik raad E luc (fout)
