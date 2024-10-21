@@ -19,3 +19,5 @@ ik raad P mo (fout)
 Ik raad A Duncan (goed)
 
 ik raad O luc (goed)
+
+ik raad N mo 
