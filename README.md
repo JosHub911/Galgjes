@@ -2,7 +2,7 @@
 
 ## Te raden woord
  
-| |A| | |O|
+| |A|N| |O|
 
 |E|-|-|-|-|
 
@@ -20,4 +20,4 @@ Ik raad A Duncan (goed)
 
 ik raad O luc (goed)
 
-ik raad N mo 
+ik raad N mo (goed)
