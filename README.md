@@ -9,7 +9,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 ik raad E luc (fout)
@@ -24,6 +24,6 @@ ik raad N mo (goed)
 
 ik raad M luc (goed)
 
-Ik raad r Duncan
+Ik raad r Duncan (fout)
 
 ik raad g mo (goed)
